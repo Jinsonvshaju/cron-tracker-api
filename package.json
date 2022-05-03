@@ -1,0 +1,24 @@
+{
+  "name": "email-tracker-api",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "@datasert/cronjs-matcher": "^1.2.0",
+    "cookie-parser": "~1.4.4",
+    "cors": "^2.8.5",
+    "cron-expression-validator": "^1.0.20",
+    "cron-parser": "^4.3.0",
+    "cronstrue": "^2.4.0",
+    "csv-parser": "^3.0.0",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "jade": "~1.11.0",
+    "morgan": "~1.9.1",
+    "multiparty": "^4.2.3",
+    "mysql": "^2.18.1"
+  }
+}
