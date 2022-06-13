@@ -1,7 +1,6 @@
-# Demo: https://lovely-bunny-e6bc4f.netlify.app/
-## How to test Demo?
+## How to test Demo version?
 ```
- Click CRON tab in the window, click Choose file button and select tracker.csv, or another testing csv.
+ Go to Demo: https://lovely-bunny-e6bc4f.netlify.app/. Click CRON tab in the window, click Choose file button and select tracker.csv, or another testing csv.
  Press upload button, then you can see uploaded data as table.
  Go home, and you can see the red and green boxes. Red boxes indicate the future triggers. By clicking the box,
  we can find the respective triggers as table.
