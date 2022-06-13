@@ -1,4 +1,4 @@
-# Demo: https://lovely-bunny-e6bc4f.netlify.app/home
+# Demo: https://lovely-bunny-e6bc4f.netlify.app/
 ## How to test Demo?
 ```
  Click CRON tab in the window, click Choose file button and select tracker.csv, or another testing csv.
